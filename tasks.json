@@ -1,0 +1,42 @@
+[
+    {
+        "name": "MATLAB PREPARATION",
+        "priority": "URGENT",
+        "duration": 60,
+        "deadline": "2024-12-30",
+        "recurrence": "Daily",
+        "completed": false
+    },
+    {
+        "name": "Music library",
+        "priority": "IMPORTANT",
+        "duration": 60,
+        "deadline": null,
+        "recurrence": "Daily",
+        "completed": false
+    },
+    {
+        "name": "DSDA cie preparation",
+        "priority": "IMPORTANT",
+        "duration": 120,
+        "deadline": "None",
+        "recurrence": "Daily",
+        "completed": false
+    },
+    {
+        "name": "CPS cie preparation",
+        "priority": "IMPORTANT",
+        "duration": 120,
+        "deadline": "None",
+        "recurrence": "Daily",
+        "completed": false
+    },
+    {
+        "name": "matlab assignment completion",
+        "priority": "URGENT",
+        "duration": 45,
+        "deadline": "2024-12-31",
+        "recurrence": "None",
+        "completed": false
+    }
+]
