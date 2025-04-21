@@ -23,3 +23,13 @@ Add tasks, assignments, and deadlines into your timetable. Categorize tasks base
 
 1. **Set Start and End Times**: Begin by setting the start and end times of your day. 
 3. **Manage Tasks**: Input your tasks and deadlines, categorize them (urgent, important, optional), and let the system auto-assign them to your timetable. 
+
+## Installtion
+Install dependencies
+``` bash
+pip install -r requirements.txt
+```
+Run
+``` bash
+streamlit run hoi.py
+```
